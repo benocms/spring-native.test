@@ -1,1 +1,1 @@
-# spring-native.test
+Test project to demonstrate the issue 'EncryptionInitializationException: Cannot find a valid UNICODE normalizer: java.text.Normalizer$Form has been found at the classpath, but seems to have no 'NFC' value.'
